@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-![](https://im3.ezgif.com/tmp/ezgif-3-4bdad04745.gif)
+![](https://im2.ezgif.com/tmp/ezgif-2-195e673b4e.gif)
 
 ## App Brainstorming (Step 4)
 
