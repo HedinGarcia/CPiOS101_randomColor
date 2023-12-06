@@ -2,9 +2,9 @@
 
 Submitted by: **Hedin García**
 
-**Technicolor Expo** is an app that... enables users to introduce themselves by displaying their names, university affiliation, and desired profession. Additionally, users have the flexibility to personalize the application by adjusting the background color to reflect their individual preferences.
+**Technicolor Expo** is an app that... enables users to introduce themselves by displaying their names, university affiliation, and desired profession. Additionally, users have the flexibility to personalize the application by adjusting the background and text color to reflect their individual preferences.
 
-Time spent: **Two and a half** hours spent in total
+Time spent: **Four** hours spent in total
 
 ## Required Features
 
